@@ -8,7 +8,7 @@ Medium article: [How to deploy WireGuard node on a DigitalOcean's droplet](https
 ## Quick Start
 
 ```bash
-wget https://raw.githubusercontent.com/drew2a/wireguard/master/wg-ububtu-server-up.sh
+wget https://raw.githubusercontent.com/lyuehh/wireguard/master/wg-ububtu-server-up.sh
 
 chmod +x ./wg-ububtu-server-up.sh
 ./wg-ububtu-server-up.sh
